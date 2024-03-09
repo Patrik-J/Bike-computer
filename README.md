@@ -1,2 +1,2 @@
 # Bike-computer
-Create a bike computer powered by the Raspberry Pi pico.
+With this I aim to create a bike computer, powered by the Raspberry Pi Pico. Additionally, if possible, since the Pico has a W-Lan-Module built-in, I can imagine myself creating an app for my smartphone to download data from the bike computer.
